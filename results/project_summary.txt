@@ -1,0 +1,23 @@
+
+DEEP LEARNING PROJECT RESULTS
+=============================
+
+Dataset:
+Pima Indians Diabetes Dataset
+
+Number of Samples: 767
+Number of Features: 8
+
+Baseline Model
+--------------
+Accuracy: 69.83%
+AUC: 0.7974
+Parameters: 161
+Training Time: 29.26 seconds
+
+Proposed Model
+--------------
+Accuracy: 69.83%
+AUC: 0.8283
+Parameters: 833
+Training Time: 10.87 seconds
