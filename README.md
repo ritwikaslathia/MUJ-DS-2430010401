@@ -131,13 +131,8 @@ Python, TensorFlow/Keras, scikit-learn, pandas, NumPy, Matplotlib, Seaborn
 | 3 | Improved model, hyperparameter comparison, ablation study |
 | 4 | Threshold tuning, Transformer model, final evaluation, documentation |
 
-*(Edit this table to match what you actually did each week.)*
 
 ## Links
 
-- **Capstone Repository:** <paste team repo URL>
 - **Presentation:** `presentations/`
 
-## Acknowledgements
-
-Thanks to the instructor and Manipal University Jaipur for the training program.
